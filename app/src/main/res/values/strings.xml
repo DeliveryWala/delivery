@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">delivery</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_navigation">Navigation</string>
+    <string-array name="product_title">
+        <item> Dove white</item>
+        <item>Dove pink</item>
+        <item>Cinthol orignal</item>
+        <item>Cinthol cool</item>
+        <item>Cinthol lime</item>
+        <item>Cinthol confidence</item>
+        <item>Lux Purple Cream</item>
+        <item>Lux Fresh Splash</item>
+        <item>Lux Creamy White</item>
+        <item>Lux Sandal Cream</item>
+        <item>Lux Strawberry Cream</item>
+        <item>Lux Peach Cream</item>
+        <item>Liril Lime</item>
+        <item>Liril 2000</item>
+        <item>Fiama Di Wills men</item>
+        <item>Fiama Di Wills Orange</item>
+        <item>Fiama Di Wills Purple</item>
+        <item>Fiama Di Wills Pink</item>
+        <item>Denim Perfume men</item>
+        <item>Denim orignal</item>
+        <item>Dettol Orignal</item>
+        <item>Dettol Cool</item>
+        <item>Dettol Skincare</item>
+        <item>Dettol Fresh</item>
+        <item>Lifebuoy Total</item>
+        <item>Lifebuoy nature pure</item>
+        <item>Lifebuoy care</item>
+        <item>Lifebuoy lemon fresh</item>
+        <item>Lifebuoy herbal</item>
+    </string-array>
+    <string-array name="company">
+        <item>Bathing Soap</item>
+        <item>Bathing Soap</item>
+        <item>Bathing Soap</item>
+        <item>Bathing Soap</item>
+        <item>Bathing Soap</item>
+        <item>Bathing Soap</item>
+        <item>Bathing Soap</item>
+        <item>Bathing Soap</item>
+        <item>Bathing Soap</item>
+        <item>Bathing Soap</item>
+        <item>Bathing Soap</item>
+        <item>Bathing Soap</item>
+        <item>Bathing Soap</item>
+        <item>Bathing Soap</item>
+        <item>Bathing Soap</item>
+        <item>Bathing Soap</item>
+        <item>Bathing Soap</item>
+        <item>Bathing Soap</item>
+        <item>Bathing Soap</item>
+        <item>Bathing Soap</item>
+        <item>Bathing Soap</item>
+        <item>Bathing Soap</item>
+        <item>Bathing Soap</item>
+        <item>Bathing Soap</item>
+        <item>Bathing Soap</item>
+        <item>Bathing Soap</item>
+        <item>Bathing Soap</item>
+        <item>Bathing Soap</item>
+        <item>Bathing Soap</item>
+    </string-array>
+    <string-array name="qty">
+        <item>100gm</item>
+        <item>100gm</item>
+        <item>100gm</item>
+        <item>100gm</item>
+        <item>100gm</item>
+        <item>100gm </item>
+        <item>100gm </item>
+        <item>100gm </item>
+        <item>100gm </item>
+        <item>100gm </item>
+        <item>100gm </item>
+        <item>100gm </item>
+        <item>100gm </item>
+        <item>100gm </item>
+        <item>100gm </item>
+        <item>100gm </item>
+        <item>100gm </item>
+        <item>100gm</item>
+        <item>100gm </item>
+        <item>100gm </item>
+        <item>100gm </item>
+        <item>100gm </item>
+        <item>100gm </item>
+        <item>100gm </item>
+        <item>100gm </item>
+        <item>100gm </item>
+        <item>100gm </item>
+        <item>100gm </item>
+        <item>100gm </item>
+    </string-array>
+    <string-array name="mrp">
+    <item>Rs100</item>
+    <item>Rs100</item>
+        <item>Rs100</item><item>Rs100</item><item>Rs100</item>
+        <item>Rs100</item>
+        <item>Rs100</item>
+        <item>Rs100</item>
+        <item>Rs100</item>
+        <item>Rs100</item>
+        <item>Rs100</item>
+        <item>Rs100</item>
+        <item>Rs100</item>
+        <item>Rs100</item>
+        <item>Rs100</item>
+        <item>Rs100</item>
+        <item>Rs100</item>
+        <item>Rs100</item>
+        <item>Rs100</item><item>Rs100</item>
+        <item>Rs100</item>
+        <item>Rs100</item>
+        <item>Rs100</item>
+        <item>Rs100</item>
+        <item>Rs100</item>
+        <item>Rs100</item><item>Rs100</item>
+        <item>Rs100</item>
+        <item>Rs100</item>
+        <item>Rs100</item><item>Rs100</item>
+
+
+
+
+
+
+    </string-array>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
